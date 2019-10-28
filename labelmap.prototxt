@@ -1,0 +1,50 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "Chanos Chanos (body)"
+  label: 1
+  display_name: "Chanos Chanos (body)"
+}
+item {
+  name: "Terapon jarbua (body)"
+  label: 2
+  display_name: "Terapon jarbua (body)"
+}
+item {
+  name: "Siganus javus (body)"
+  label: 3
+  display_name: "Siganus javus (body)"
+}
+item {
+  name: "Selaroides leptokepis (body)"
+  label: 4
+  display_name: "Selaroides leptokepis (body)"
+}
+item {
+  name: "Acanthurus bleekeri (body)"
+  label: 5
+  display_name: "Acanthurus bleekeri (body)"
+}
+item {
+  name: "Selar crumenophthalmus (body)"
+  label: 6
+  display_name: "Selar crumenophthalmus (body)"
+}
+item {
+  name: "Auxis rochie (body)"
+  label: 7
+  display_name: "Auxis rochie (body)"
+}
+item {
+  name: "Decapterus macrosoma (body)"
+  label: 8
+  display_name: "Decapterus macrosoma (body)"
+}
+item {
+  name: "Sardinella lemuru (body)"
+  label: 9
+  display_name: "Sardinella lemuru (body)"
+}
