@@ -46,7 +46,7 @@ layer {
     }
   }
   data_param {
-    source: "ThesisFish_body/trainval_lmdb/"
+    source: "trainval_lmdb/"
     batch_size: 12
     backend: LMDB
   }
