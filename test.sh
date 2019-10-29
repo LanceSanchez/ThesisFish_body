@@ -1,6 +1,6 @@
 #!/bin/sh
-#latest=ThesisFish_body/snapshot/mobilenet_iter_73000.caffemodel
-latest=$(ls -t Thesis/snapshot/*.caffemodel | head -n 1)
+#latest=/content/drive/Thesis_body/snapshot/mobilenet_iter_73000.caffemodel
+latest=$(ls -t /content/drive/Thesis_body/snapshot/*.caffemodel | head -n 1)
 if test -z $latest; then
 	exit 1
 fi
